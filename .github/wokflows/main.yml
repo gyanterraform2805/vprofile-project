@@ -1,0 +1,9 @@
+name: Build WF
+
+on: 
+ push: 
+  branches:
+   -main
+jobs:
+ Build:
+ Testing:
